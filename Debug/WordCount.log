@@ -1,0 +1,3 @@
+﻿  WordCount.cpp
+C:\Users\肥锅肉盖饭\source\repos\WordCount\WordCount.cpp(4,34): warning C4083: 应输入“newline”；找到标识符“；”
+  WordCount.vcxproj -> C:\Users\肥锅肉盖饭\source\repos\WordCount\Debug\WordCount.exe
